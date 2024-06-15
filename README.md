@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Just-vikas91
-- 👀 I’m interested in application development
+- 👋 Hi, I’m # Vikas Patel
+- 👀 I’m interested in Application Development
 - 🌱 I’m currently learning computer science 
 - 📫 Reach me on Intsa: @_just_.vikas_
 - LiknedIn:- Vikas Patel
